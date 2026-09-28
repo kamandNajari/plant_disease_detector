@@ -176,4 +176,4 @@ Released under the [MIT License](LICENSE).
 
 **Kamand Najari** · [GitHub](https://github.com/kamandNajari)
 
-If you find this project useful, consider giving it a ⭐
+Thanks for checking out this project💙✨️
